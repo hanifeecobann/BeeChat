@@ -1,0 +1,168 @@
+[
+  {
+    "question": "Örnek Arıcılık Kooperatifi'nin 2024 yıllık bal üretimi kaç kilogramdır?",
+    "expected_heading": "13.2 Üretim ve verim rakamları",
+    "keywords": [
+      "14.200",
+      "14200"
+    ]
+  },
+  {
+    "question": "Kooperatifte kovan başına ortalama verim kaç kilogramdır?",
+    "expected_heading": "13.2 Üretim ve verim rakamları",
+    "keywords": [
+      "10,3"
+    ]
+  },
+  {
+    "question": "Kooperatifte ilk bal sağımı ne zaman yapılır?",
+    "expected_heading": "13.2 Üretim ve verim rakamları",
+    "keywords": [
+      "20 mayıs"
+    ]
+  },
+  {
+    "question": "2023-2024 kışındaki koloni kaybı oranı nedir?",
+    "expected_heading": "13.2 Üretim ve verim rakamları",
+    "keywords": [
+      "9,4"
+    ]
+  },
+  {
+    "question": "Kooperatifin kaç üyesi var?",
+    "expected_heading": "13.1 Kooperatifin kuruluşu ve yapısı",
+    "keywords": [
+      "47"
+    ]
+  },
+  {
+    "question": "Üyelerin toplam kovan sayısı kaçtır?",
+    "expected_heading": "13.1 Kooperatifin kuruluşu ve yapısı",
+    "keywords": [
+      "1.380",
+      "1380"
+    ]
+  },
+  {
+    "question": "Kooperatifin yönetim kurulu başkanı kimdir?",
+    "expected_heading": "13.1 Kooperatifin kuruluşu ve yapısı",
+    "keywords": [
+      "zeynep arslan"
+    ]
+  },
+  {
+    "question": "Kooperatifin iç standardına göre HMF üst sınırı nedir?",
+    "expected_heading": "13.3 Sağlık ve kalite protokolleri",
+    "keywords": [
+      "15"
+    ]
+  },
+  {
+    "question": "Kooperatifin varroa müdahale eşiği nedir?",
+    "expected_heading": "13.3 Sağlık ve kalite protokolleri",
+    "keywords": [
+      "yüzde 3",
+      "%3",
+      "3 varroa"
+    ]
+  },
+  {
+    "question": "Kovanlara kare kodlu etiket hangi yıldan beri yapıştırılıyor?",
+    "expected_heading": "13.3 Sağlık ve kalite protokolleri",
+    "keywords": [
+      "2022"
+    ]
+  },
+  {
+    "question": "Genç Arıcı Akademisi'ne yılda kaç kişi kabul edilir?",
+    "expected_heading": "13.4 Eğitim, gezginci güzergâh ve ürünler",
+    "keywords": [
+      "60"
+    ]
+  },
+  {
+    "question": "Kooperatif kovanları Kızıltepe Yaylası'na ne zaman taşır?",
+    "expected_heading": "13.4 Eğitim, gezginci güzergâh ve ürünler",
+    "keywords": [
+      "haziran"
+    ]
+  },
+  {
+    "question": "Karaçam Süzme Çiçek Balı'nın 450 gramlık kavanozu 2024'te kaç TL'ydi?",
+    "expected_heading": "13.4 Eğitim, gezginci güzergâh ve ürünler",
+    "keywords": [
+      "280"
+    ]
+  },
+  {
+    "question": "Ana arı yumurtadan kaç günde çıkar?",
+    "expected_heading": "1.4 Gelişim evreleri",
+    "keywords": [
+      "16"
+    ]
+  },
+  {
+    "question": "Yaz aylarında işçi arı ne kadar yaşar?",
+    "expected_heading": "2.2 İşçi arılar",
+    "keywords": [
+      "hafta"
+    ]
+  },
+  {
+    "question": "Salınım dansı arılara ne bilgisi verir?",
+    "expected_heading": "3.2 Salınım dansı",
+    "keywords": [
+      "yön",
+      "güneş"
+    ]
+  },
+  {
+    "question": "Langstroth hareketli çerçeveli kovanı hangi yıl geliştirdi?",
+    "expected_heading": "5.1 Modern çerçeveli kovanlar",
+    "keywords": [
+      "1852"
+    ]
+  },
+  {
+    "question": "Varroa nedir?",
+    "expected_heading": "8.1 Varroa",
+    "keywords": [
+      "parazit"
+    ]
+  },
+  {
+    "question": "Amerikan yavru çürüklüğüne hangi bakteri neden olur?",
+    "expected_heading": "8.3 Yavru çürüklüğü hastalıkları",
+    "keywords": [
+      "paenibacillus"
+    ]
+  },
+  {
+    "question": "Avrupa Birliği neonikotinoidleri hangi yıl yasakladı?",
+    "expected_heading": "12.2 Pestisitler",
+    "keywords": [
+      "2018"
+    ]
+  },
+  {
+    "question": "Kooperatifin 2025 yılı bal üretimi kaç kilogramdır?",
+    "expected_heading": null,
+    "keywords": [
+      "bulunmuyor"
+    ]
+  },
+  {
+    "question": "Kooperatifin Instagram hesabının adı nedir?",
+    "expected_heading": null,
+    "keywords": [
+      "bulunmuyor"
+    ]
+  },
+  {
+    "question": "Antalya'daki en iyi arıcılık ekipmanı mağazası hangisidir?",
+    "expected_heading": null,
+    "keywords": [
+      "bulunmuyor"
+    ]
+  }
+]
